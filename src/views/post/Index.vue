@@ -1,7 +1,7 @@
 <template>
     <div>
         <el-card>
-            <div class="header">
+            <div>
                 帖子列表
             </div>
             <div>
